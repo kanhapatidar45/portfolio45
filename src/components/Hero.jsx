@@ -18,10 +18,10 @@ const Hero = () => {
             <div className="w-1 h-40  sm:h-80 cyan-gradient" />
           </div>
           <div>
-            <h1 className={`${styles.heroHeadText} text-white`}>Hi,I'm <span className="text-cyan-400">Titas</span></h1>
+            <h1 className={`${styles.heroHeadText} text-white`}>Hi,I'm <span className="text-cyan-400">Kanha Patidar</span></h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100 `}>I am a <span className="text-cyan-400"><Typewriter
 
-              words={['Full-stack Dev', 'Python Dev', 'React Dev', 'Java Dev', 'Ethical Hacker']}
+              words={['Full-stack Dev', 'React Dev', 'Frontend Dev', ]}
               loop={Infinity}
               cursor
               cursorStyle='|'

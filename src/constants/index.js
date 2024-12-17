@@ -66,15 +66,15 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Frontend Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Fullstack Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Reactjs Developer",
       icon: creator,
     },
   ];
@@ -92,18 +92,12 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    {
-      name: "TensorFlow",
-      icon: TF,
-    },
+   
     {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Python",
-      icon: python,
-    },
+   
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -116,70 +110,40 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
+  
     {
       name: "git",
       icon: git,
     },
-    {
-      name: "Linux",
-      icon: linux,
-    },
+   
    
   ];
   
   const experiences = [
     {
       title: "High School",
-      company_name: "Methodist School",
+      company_name: "Shree Gurukul School Kasrawad",
       icon: methodist,
       iconBg: "#E6DEDD",
-      date: "2017-2019",
+      date: "2019-2021",
       points: [
-        "Passed 10th and 12th standard from ISCE board.",
-        "Secured a total of 90% and 85% respectively."
+        "Passed 10th and 12th standard from CBSE board.",
+        "Secured a total of 90% and 76% respectively."
       ],
     },
     {
       title: "College",
-      company_name: "Heritage Institute of Technology",
+      company_name: "IES IPS Academy, Indore",
       icon: heritage,
       iconBg: "#E6DEDD",
-      date: "June 2020-June 2024",
+      date: "Aug 2021-June 2025",
       points: [
-        "Pursuing Bachelors of Technology in Electronics and Communications Engineering",
-        "Secured a ygpa of 8.48",
+        "Pursuing Bachelors of Technology in Computer Science and Engineering",
+        "Secured a CGPA of 8.25",
         
       ],
-    },
-    {
-      title: "Web Developer Intern",
-      company_name: "Oasis Infobyte",
-      icon: OASIS,
-      iconBg: "#383E56",
-      date: "June 2023 - July 2023",
-      points: [
-        "Created a simple calculator application using HTML, CSS, JavaScript.",
-        "Created a To-Do web application that helps in tracking daily tasks.",
-       
-        "Created a Tribute page using HTML and CSS.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-      ],
-    },
-    {
-      title: "AI Intern",
-      company_name: "Webel",
-      icon: webel,
-      iconBg: "#E6DEDD",
-      date: "June 2023 - July 2023",
-      points: [
-        "Recieving training on developing AI apps using Python",
-        "Performing various assigned tasks and projects related to AI and Machine Learning"
-      ],
-    },
+    }
+   
   ];
   
   const testimonials = [
@@ -210,52 +174,38 @@ import {
   ];
   
   const projects = [
+ 
     {
-      name: "Smart Parking System ",
+      name: "Study Notion",
       description:
-        "a smart parking system model using IR sensors, an Arduino board (involving Arduino coding), and servo motors. The system can detect and indicate empty parking space availability along with its specified number.",
+        "Full Stack Edtech Platform built using React and Redux functionality in fronted and Express...",
       tags: [
         {
-          name: "arduino",
+          name: "React JS",
           color: "blue-text-gradient",
         },
         {
-          name: "c",
+          name: "Node Js",
           color: "green-text-gradient",
         },
         {
-          name: "iot",
+          name: "Express Js",
           color: "pink-text-gradient",
         },
-      ],
-      image: karlot,
-      source_code_link: "https://drive.google.com/file/d/1xJQ2OM4lLAJS0sKH8qvcGEoyiWQ0pq4v/view?usp=sharing",
-    },
-    {
-      name: "ASL Hand Tracker",
-      description:
-        "It is Python app that tracks hand signs using computer vision to detect ASL. This Python application compares the user's hand sign with pre-trained(Machine Learning) models using TensorFlow. Then the output is displayed on a web application via Flask.",
-      tags: [
+
         {
-          name: "python",
+          name: "MongoDB",
           color: "blue-text-gradient",
         },
-        {
-          name: "tensorflow",
-          color: "green-text-gradient",
-        },
-        {
-          name: "ML",
-          color: "pink-text-gradient",
-        },
+
       ],
       image: asl,
-      source_code_link: "https://github.com/titaskundu/Hand_Tracker",
+      source_code_link: "htt",
     },
     {
       name: "Personal Portfolio",
       description:
-        "Created a fully responsive, beautiful 3-D personal portfolio website using React, Tailwind CSS and Three.js. This includes various 3d models and basic animations.",
+        "My portfolio, built with React and Three.js, showcases my work using , interactive experiences, and...",
       tags: [
         {
           name: "reactjs",
@@ -271,7 +221,7 @@ import {
         },
       ],
       image: portflio,
-      source_code_link: "https://github.com/",
+      source_code_link: "https",
     },
   ];
   

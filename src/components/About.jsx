@@ -38,7 +38,7 @@ const About = () => {
           <motion.p variants={fadeIn("", "", 0.1, 1)}
             className="mt-4 text-cyan-200 text-[17px] max-w-3xl leading-[30px] ">
             I am an Engineering student proficient in C,
-            Python, HTML, and Java. Quick
+           c++, HTML, Css,JavaScript ,ReactJs ,MongoDB,Express and Nodejs. Quick
             learning ability along with curiosity
             to comprehend new skills.
             Excellent teamwork, interpersonal

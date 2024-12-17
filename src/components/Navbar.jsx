@@ -84,7 +84,7 @@ const Navbar = () => {
               setActive("");
               window.scrollTo(0, 0);
             }}>
-            TK</motion.Link>
+            KP</motion.Link>
 
 
 
@@ -93,22 +93,18 @@ const Navbar = () => {
 
       <div className="flex flex-row justify-center items-center -md:flex-col ">
 
-        <Link target='_blank' to="https://discordapp.com/users/743114147574579313"><BsDiscord className="mx-4 hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100 -md:mx-0 -md:my-[1px]" /></Link>
 
 
 
-        <Link target='_blank' to="https://www.linkedin.com/in/titas-kundu-903a1a215"> <BsLinkedin className="mr-2 hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100 -md:mr-0 -md:my-[1px]" /></Link>
 
-        <Link target='_blank' to="https://www.instagram.com/plague_mint/"><BsInstagram className="mx-2 hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100 -md:mx-0 -md:my-[1px]" /></Link>
+        <Link target='_blank' to="https://www.linkedin.com/in/kanha-patidar-a77086222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <BsLinkedin className="mr-2 hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100 -md:mr-0 -md:my-[1px]" /></Link>
+
+        <Link target='_blank' to="https://www.instagram.com/kanha_patidar45/profilecard/?igsh=aGlxZDA3ZzVqZmZ4"><BsInstagram className="mx-2 hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100 -md:mx-0 -md:my-[1px]" /></Link>
 
 
-        <Link target='_blank' to="https://github.com/titaskundu"> <BsGithub className="mx-2 hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100 -md:mx-0 -md:my-[1px]" /></Link>
+        <Link target='_blank' to="https://github.com/kanhapatidar45"> <BsGithub className="mx-2 hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100 -md:mx-0 -md:my-[1px]" /></Link>
 
-        <Link target='_blank' to="https://twitter.com">
-
-          <BsTwitter className="ml-2 hover:translate-y-[-2px] hover:cursor-pointer transition-all ease-in duration-100 -md:ml-0 -md:my-[1px]  "
-          />
-        </Link>
+      
 
       </div>
     </header>
